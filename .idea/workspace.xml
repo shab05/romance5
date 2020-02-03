@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dcd3590-739d-4d5b-adab-e6a24d1fc552" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="romance" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WBlGCRoXghIvwSqiXDWKnvvic4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="TestNG.MainPage.testKharkovPage (1)">
+    <configuration name="MainPage.testJoinNowPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romance" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPage" />
+      <option name="METHOD_NAME" value="testJoinNowPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPage.testKharkovPage (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romance5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPage" />
+      <option name="METHOD_NAME" value="testKharkovPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPage.testKharkovPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romance" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPage" />
+      <option name="METHOD_NAME" value="testKharkovPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPage.testSearchPage (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romance5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPage" />
+      <option name="METHOD_NAME" value="testSearchPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPage.testSearchPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romance" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainPage" />
+      <option name="METHOD_NAME" value="testSearchPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MainPage.testKharkovPage (1)" />
+        <item itemvalue="TestNG.MainPage.testSearchPage (1)" />
+        <item itemvalue="TestNG.MainPage.testKharkovPage" />
+        <item itemvalue="TestNG.MainPage.testSearchPage" />
+        <item itemvalue="TestNG.MainPage.testJoinNowPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dcd3590-739d-4d5b-adab-e6a24d1fc552" name="Default Changelist" comment="" />
+      <created>1578630774619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578630774619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="4" width="816" height="734" key="#Intentions" timestamp="1579792627926">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="272" y="4" width="816" height="734" key="#Intentions/0.0.1360.738@0.0.1360.738" timestamp="1579792627926" />
+    <state x="272" y="26" key="#Project_Structure" timestamp="1578643587962">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="272" y="26" key="#Project_Structure/0.0.1360.738@0.0.1360.738" timestamp="1578643587962" />
+    <state x="508" y="210" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1578644821604">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="508" y="210" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1360.738@0.0.1360.738" timestamp="1578644821604" />
+    <state x="460" y="122" key="FileChooserDialogImpl" timestamp="1580742693146">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="460" y="122" key="FileChooserDialogImpl/0.0.1360.738@0.0.1360.738" timestamp="1580742693146" />
+    <state width="1316" height="393" key="GridCell.Tab.0.bottom" timestamp="1580744691793">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1316" height="393" key="GridCell.Tab.0.bottom/0.0.1360.738@0.0.1360.738" timestamp="1580744691793" />
+    <state width="1316" height="393" key="GridCell.Tab.0.center" timestamp="1580744691793">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1316" height="393" key="GridCell.Tab.0.center/0.0.1360.738@0.0.1360.738" timestamp="1580744691793" />
+    <state width="1316" height="393" key="GridCell.Tab.0.left" timestamp="1580744691793">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1316" height="393" key="GridCell.Tab.0.left/0.0.1360.738@0.0.1360.738" timestamp="1580744691793" />
+    <state width="1316" height="393" key="GridCell.Tab.0.right" timestamp="1580744691793">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1316" height="393" key="GridCell.Tab.0.right/0.0.1360.738@0.0.1360.738" timestamp="1580744691793" />
+    <state width="1360" height="220" key="GridCell.Tab.1.bottom" timestamp="1580203098465">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1360" height="220" key="GridCell.Tab.1.bottom/0.0.1360.738@0.0.1360.738" timestamp="1580203098465" />
+    <state width="1360" height="220" key="GridCell.Tab.1.center" timestamp="1580203098465">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1360" height="220" key="GridCell.Tab.1.center/0.0.1360.738@0.0.1360.738" timestamp="1580203098465" />
+    <state width="1360" height="220" key="GridCell.Tab.1.left" timestamp="1580203098465">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1360" height="220" key="GridCell.Tab.1.left/0.0.1360.738@0.0.1360.738" timestamp="1580203098465" />
+    <state width="1360" height="220" key="GridCell.Tab.1.right" timestamp="1580203098465">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1360" height="220" key="GridCell.Tab.1.right/0.0.1360.738@0.0.1360.738" timestamp="1580203098465" />
+    <state x="181" y="0" key="SettingsEditor" timestamp="1580742719592">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="181" y="0" key="SettingsEditor/0.0.1360.738@0.0.1360.738" timestamp="1580742719592" />
+    <state x="92" y="92" width="1176" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578644224241">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="92" y="92" width="1176" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1360.738@0.0.1360.738" timestamp="1578644224241" />
+    <state x="92" y="92" width="1176" height="554" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1578673933004">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="92" y="92" width="1176" height="554" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.0.1360.738@0.0.1360.738" timestamp="1578673933004" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1580715582783">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1360.738@0.0.1360.738" timestamp="1580715582783" />
+    <state x="499" y="195" key="export.test.results" timestamp="1578644065813">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="499" y="195" key="export.test.results/0.0.1360.738@0.0.1360.738" timestamp="1578644065813" />
+    <state x="0" y="0" width="606" height="738" key="find.popup" timestamp="1578643533390">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="0" y="0" width="606" height="738" key="find.popup/0.0.1360.738@0.0.1360.738" timestamp="1578643533390" />
+    <state x="336" y="159" key="run.anything.popup" timestamp="1580381921577">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="336" y="159" key="run.anything.popup/0.0.1360.738@0.0.1360.738" timestamp="1580381921577" />
+    <state x="343" y="59" key="search.everywhere.popup" timestamp="1578674028692">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="343" y="59" key="search.everywhere.popup/0.0.1360.738@0.0.1360.738" timestamp="1578674028692" />
+  </component>
+</project>
