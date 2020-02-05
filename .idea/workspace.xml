@@ -16,6 +16,7 @@
         <option value="Class" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,18 +36,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="TestNG.MainPage.testKharkovPage (1)">
-    <configuration name="MainPage.testJoinNowPage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="romance" />
+  <component name="RunManager" selected="TestNG.SearchTests.testSearchPage">
+    <configuration name="BlogTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romance5" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainPage" />
-      <option name="METHOD_NAME" value="testJoinNowPage" />
+      <option name="MAIN_CLASS_NAME" value="BlogTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogTests.testBlogPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romance5" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BlogTests" />
+      <option name="METHOD_NAME" value="testBlogPage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -66,23 +79,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPage.testKharkovPage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="romance" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainPage" />
-      <option name="METHOD_NAME" value="testKharkovPage" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainPage.testSearchPage (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MainPage.testSignInPage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="romance5" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MainPage" />
-      <option name="METHOD_NAME" value="testSearchPage" />
+      <option name="METHOD_NAME" value="testSignInPage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -90,10 +91,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPage.testSearchPage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="romance" />
+    <configuration name="SearchTests.testSearchPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romance5" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainPage" />
+      <option name="MAIN_CLASS_NAME" value="SearchTests" />
       <option name="METHOD_NAME" value="testSearchPage" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SearchTests.testSearchPage" />
+        <item itemvalue="TestNG.BlogTests" />
+        <item itemvalue="TestNG.BlogTests.testBlogPage" />
+        <item itemvalue="TestNG.MainPage.testSignInPage" />
         <item itemvalue="TestNG.MainPage.testKharkovPage (1)" />
-        <item itemvalue="TestNG.MainPage.testSearchPage (1)" />
-        <item itemvalue="TestNG.MainPage.testKharkovPage" />
-        <item itemvalue="TestNG.MainPage.testSearchPage" />
-        <item itemvalue="TestNG.MainPage.testJoinNowPage" />
       </list>
     </recent_temporary>
   </component>
@@ -146,46 +147,54 @@
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="272" y="26" key="#Project_Structure/0.0.1360.738@0.0.1360.738" timestamp="1578643587962" />
+    <state x="447" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580746122090">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="447" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.738@0.0.1360.738" timestamp="1580746122090" />
     <state x="508" y="210" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1578644821604">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="508" y="210" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1360.738@0.0.1360.738" timestamp="1578644821604" />
-    <state x="460" y="122" key="FileChooserDialogImpl" timestamp="1580742693146">
+    <state x="319" y="55" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1580746360133">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="460" y="122" key="FileChooserDialogImpl/0.0.1360.738@0.0.1360.738" timestamp="1580742693146" />
-    <state width="1316" height="393" key="GridCell.Tab.0.bottom" timestamp="1580744691793">
+    <state x="319" y="55" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1360.738@0.0.1360.738" timestamp="1580746360133" />
+    <state x="460" y="122" key="FileChooserDialogImpl" timestamp="1580745987910">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="393" key="GridCell.Tab.0.bottom/0.0.1360.738@0.0.1360.738" timestamp="1580744691793" />
-    <state width="1316" height="393" key="GridCell.Tab.0.center" timestamp="1580744691793">
+    <state x="460" y="122" key="FileChooserDialogImpl/0.0.1360.738@0.0.1360.738" timestamp="1580745987910" />
+    <state width="1316" height="393" key="GridCell.Tab.0.bottom" timestamp="1580893373937">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="393" key="GridCell.Tab.0.center/0.0.1360.738@0.0.1360.738" timestamp="1580744691793" />
-    <state width="1316" height="393" key="GridCell.Tab.0.left" timestamp="1580744691793">
+    <state width="1316" height="393" key="GridCell.Tab.0.bottom/0.0.1360.738@0.0.1360.738" timestamp="1580893373937" />
+    <state width="1316" height="393" key="GridCell.Tab.0.center" timestamp="1580893373937">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="393" key="GridCell.Tab.0.left/0.0.1360.738@0.0.1360.738" timestamp="1580744691793" />
-    <state width="1316" height="393" key="GridCell.Tab.0.right" timestamp="1580744691793">
+    <state width="1316" height="393" key="GridCell.Tab.0.center/0.0.1360.738@0.0.1360.738" timestamp="1580893373937" />
+    <state width="1316" height="393" key="GridCell.Tab.0.left" timestamp="1580893373936">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="393" key="GridCell.Tab.0.right/0.0.1360.738@0.0.1360.738" timestamp="1580744691793" />
-    <state width="1360" height="220" key="GridCell.Tab.1.bottom" timestamp="1580203098465">
+    <state width="1316" height="393" key="GridCell.Tab.0.left/0.0.1360.738@0.0.1360.738" timestamp="1580893373936" />
+    <state width="1316" height="393" key="GridCell.Tab.0.right" timestamp="1580893373937">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1360" height="220" key="GridCell.Tab.1.bottom/0.0.1360.738@0.0.1360.738" timestamp="1580203098465" />
-    <state width="1360" height="220" key="GridCell.Tab.1.center" timestamp="1580203098465">
+    <state width="1316" height="393" key="GridCell.Tab.0.right/0.0.1360.738@0.0.1360.738" timestamp="1580893373937" />
+    <state width="1316" height="100" key="GridCell.Tab.1.bottom" timestamp="1580844782001">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1360" height="220" key="GridCell.Tab.1.center/0.0.1360.738@0.0.1360.738" timestamp="1580203098465" />
-    <state width="1360" height="220" key="GridCell.Tab.1.left" timestamp="1580203098465">
+    <state width="1316" height="100" key="GridCell.Tab.1.bottom/0.0.1360.738@0.0.1360.738" timestamp="1580844782001" />
+    <state width="1316" height="100" key="GridCell.Tab.1.center" timestamp="1580844782001">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1360" height="220" key="GridCell.Tab.1.left/0.0.1360.738@0.0.1360.738" timestamp="1580203098465" />
-    <state width="1360" height="220" key="GridCell.Tab.1.right" timestamp="1580203098465">
+    <state width="1316" height="100" key="GridCell.Tab.1.center/0.0.1360.738@0.0.1360.738" timestamp="1580844782001" />
+    <state width="1316" height="100" key="GridCell.Tab.1.left" timestamp="1580844782001">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1360" height="220" key="GridCell.Tab.1.right/0.0.1360.738@0.0.1360.738" timestamp="1580203098465" />
+    <state width="1316" height="100" key="GridCell.Tab.1.left/0.0.1360.738@0.0.1360.738" timestamp="1580844782001" />
+    <state width="1316" height="100" key="GridCell.Tab.1.right" timestamp="1580844782001">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state width="1316" height="100" key="GridCell.Tab.1.right/0.0.1360.738@0.0.1360.738" timestamp="1580844782001" />
     <state x="181" y="0" key="SettingsEditor" timestamp="1580742719592">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
@@ -198,10 +207,14 @@
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="92" y="92" width="1176" height="554" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.0.1360.738@0.0.1360.738" timestamp="1578673933004" />
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1580715582783">
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1580887919074">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1360.738@0.0.1360.738" timestamp="1580715582783" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1360.738@0.0.1360.738" timestamp="1580887919074" />
+    <state x="159" y="39" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580892550171">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="159" y="39" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1360.738@0.0.1360.738" timestamp="1580892550171" />
     <state x="499" y="195" key="export.test.results" timestamp="1578644065813">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
@@ -218,5 +231,8 @@
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="343" y="59" key="search.everywhere.popup/0.0.1360.738@0.0.1360.738" timestamp="1578674028692" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/romance5$BlogTests.ic" NAME="BlogTests Coverage Results" MODIFIED="1580813766718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
