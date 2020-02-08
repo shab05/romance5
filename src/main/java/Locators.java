@@ -16,13 +16,11 @@ public class Locators {
 
     // ContactUs page
     public static final By Link_ContactUs = By.xpath("//div[@class='breadcrumbs']");
-    public static final By Link_Name = By.xpath("//input[@type='text'][@name='user_name']");
-    public static final By Link_EmailUs = By.xpath("//input[@type='text'][@name='user_email']");
-    public static final By Link_Subject = By.xpath("//input[@type='text'][@name='subject']");
-    public static final By Link_Message = By.xpath("//div//textarea[@class='form-control']");
-    public static final By Link_Security = By.xpath("//input[@class='captcha.form-control']");
-    public static final By Link_Button = By.xpath("//input[@class='btn.btn-primary']");
-    public static final By Link_Reason = By.xpath("//select[@name='id_reason']");
+
+    //Groupon page
+    public static final By Link_Groupon = By.xpath("//iframe[@src='https://www.youtube.com/embed/fJmi8VFDOUE?rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.groupon.com&widgetid=2']");
+    public static final By Link_Button = By.cssSelector("button.ytp-play-button.ytp-button");
+
 
 
 
