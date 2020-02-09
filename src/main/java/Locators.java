@@ -12,7 +12,7 @@ public class Locators {
     public static final By Link_Push = By.xpath("//button[@class='btn.btn-primary']");
 
     //Search page
-    public static final By LINK_SEARCH = By.xpath("//a[@href='https://marryukrainianlady.org/content/view/how-it-works']");
+    public static final By LINK_SEARCH = By.xpath("//div[@class='search-form']");
 
     // ContactUs page
     public static final By Link_ContactUs = By.xpath("//div[@class='breadcrumbs']");

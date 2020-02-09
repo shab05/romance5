@@ -43,24 +43,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="TestNG.Groupon">
+  <component name="RunManager" selected="TestNG.SearchTests.testSearchPage (1)">
     <configuration name="BlogTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="romance5" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BlogTests" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BlogTests.testBlogPage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="romance5" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BlogTests" />
-      <option name="METHOD_NAME" value="testBlogPage" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -90,6 +78,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchTests.testSearchPage (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="romance7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SearchTests" />
+      <option name="METHOD_NAME" value="testSearchPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchTests.testSearchPage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="romance5" />
       <option name="PACKAGE_NAME" value="" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SearchTests.testSearchPage (1)" />
         <item itemvalue="TestNG.Groupon" />
         <item itemvalue="TestNG.Groupon.test2" />
         <item itemvalue="TestNG.SearchTests.testSearchPage" />
         <item itemvalue="TestNG.BlogTests" />
-        <item itemvalue="TestNG.BlogTests.testBlogPage" />
       </list>
     </recent_temporary>
   </component>
@@ -162,38 +162,38 @@
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="460" y="122" key="FileChooserDialogImpl/0.0.1360.738@0.0.1360.738" timestamp="1580745987910" />
-    <state width="1316" height="100" key="GridCell.Tab.0.bottom" timestamp="1581166447254">
+    <state width="1316" height="393" key="GridCell.Tab.0.bottom" timestamp="1581243624667">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="100" key="GridCell.Tab.0.bottom/0.0.1360.738@0.0.1360.738" timestamp="1581166447254" />
-    <state width="1316" height="100" key="GridCell.Tab.0.center" timestamp="1581166447253">
+    <state width="1316" height="393" key="GridCell.Tab.0.bottom/0.0.1360.738@0.0.1360.738" timestamp="1581243624667" />
+    <state width="1316" height="393" key="GridCell.Tab.0.center" timestamp="1581243624667">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="100" key="GridCell.Tab.0.center/0.0.1360.738@0.0.1360.738" timestamp="1581166447253" />
-    <state width="1316" height="100" key="GridCell.Tab.0.left" timestamp="1581166447253">
+    <state width="1316" height="393" key="GridCell.Tab.0.center/0.0.1360.738@0.0.1360.738" timestamp="1581243624667" />
+    <state width="1316" height="393" key="GridCell.Tab.0.left" timestamp="1581243624667">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="100" key="GridCell.Tab.0.left/0.0.1360.738@0.0.1360.738" timestamp="1581166447253" />
-    <state width="1316" height="100" key="GridCell.Tab.0.right" timestamp="1581166447254">
+    <state width="1316" height="393" key="GridCell.Tab.0.left/0.0.1360.738@0.0.1360.738" timestamp="1581243624667" />
+    <state width="1316" height="393" key="GridCell.Tab.0.right" timestamp="1581243624667">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="100" key="GridCell.Tab.0.right/0.0.1360.738@0.0.1360.738" timestamp="1581166447254" />
-    <state width="1316" height="100" key="GridCell.Tab.1.bottom" timestamp="1581166447254">
+    <state width="1316" height="393" key="GridCell.Tab.0.right/0.0.1360.738@0.0.1360.738" timestamp="1581243624667" />
+    <state width="1316" height="100" key="GridCell.Tab.1.bottom" timestamp="1581174887252">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="100" key="GridCell.Tab.1.bottom/0.0.1360.738@0.0.1360.738" timestamp="1581166447254" />
-    <state width="1316" height="100" key="GridCell.Tab.1.center" timestamp="1581166447254">
+    <state width="1316" height="100" key="GridCell.Tab.1.bottom/0.0.1360.738@0.0.1360.738" timestamp="1581174887252" />
+    <state width="1316" height="100" key="GridCell.Tab.1.center" timestamp="1581174887252">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="100" key="GridCell.Tab.1.center/0.0.1360.738@0.0.1360.738" timestamp="1581166447254" />
-    <state width="1316" height="100" key="GridCell.Tab.1.left" timestamp="1581166447254">
+    <state width="1316" height="100" key="GridCell.Tab.1.center/0.0.1360.738@0.0.1360.738" timestamp="1581174887252" />
+    <state width="1316" height="100" key="GridCell.Tab.1.left" timestamp="1581174887252">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="100" key="GridCell.Tab.1.left/0.0.1360.738@0.0.1360.738" timestamp="1581166447254" />
-    <state width="1316" height="100" key="GridCell.Tab.1.right" timestamp="1581166447254">
+    <state width="1316" height="100" key="GridCell.Tab.1.left/0.0.1360.738@0.0.1360.738" timestamp="1581174887252" />
+    <state width="1316" height="100" key="GridCell.Tab.1.right" timestamp="1581174887252">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state width="1316" height="100" key="GridCell.Tab.1.right/0.0.1360.738@0.0.1360.738" timestamp="1581166447254" />
+    <state width="1316" height="100" key="GridCell.Tab.1.right/0.0.1360.738@0.0.1360.738" timestamp="1581174887252" />
     <state x="181" y="0" key="SettingsEditor" timestamp="1580742719592">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
@@ -206,10 +206,10 @@
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="92" y="92" width="1176" height="554" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.0.1360.738@0.0.1360.738" timestamp="1578673933004" />
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1581146959395">
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1581233975725">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1360.738@0.0.1360.738" timestamp="1581146959395" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1360.738@0.0.1360.738" timestamp="1581233975725" />
     <state x="159" y="39" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580892550171">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
