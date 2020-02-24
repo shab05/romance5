@@ -10,15 +10,20 @@ public class BaseUI {
     WebDriverWait wait;
     String mainUrl = "https://marryukrainianlady.org/";
     String mainUrlG = "https://www.groupon.com/";
+    MainPage mainPage;
+    SearchPage searchPage;
 
     @BeforeMethod
     public void setUp() {
         System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
         driver = new ChromeDriver();
         wait = new WebDriverWait(driver,20);
+        mainPage = new MainPage(driver,wait);
+        searchPage = new SearchPage(driver,wait);
         driver.manage().window().maximize();
         driver.get(mainUrl);
         driver.get(mainUrlG);
+
     }
 
         @AfterMethod
